@@ -4,3 +4,7 @@ sdf
 ewf
 erw
 
+ESTOY ESCRINIEMDP :P Q QIOERPPPPPP44
+
+para probar la concurrencia de escritura
+
