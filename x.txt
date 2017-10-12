@@ -3,3 +3,7 @@ f
 sdf
 modificando el mismo texto: padilla jonatan
 
+ESTOY ESCRINIEMDP :P Q QIOERPPPPPP44
+
+para probar la concurrencia de escritura
+
